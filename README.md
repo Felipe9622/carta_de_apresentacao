@@ -13,5 +13,5 @@ https://felipe9622.github.io/carta_de_apresentacao/
 
 ## Recurso
 - [x] Carta de apresentação para recrutadores.
-- [x] Linguagem e ferramentas que possuo mais experiencia no uso.
+- [x] Linguagem e ferramentas que possuo mais experiencia.
 - [x] Visualização de principais projetos ja criados. 
